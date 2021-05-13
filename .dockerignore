@@ -1,0 +1,6 @@
+gamecollect-srv
+.gitignore
+.git
+Dockerfile
+Makefile
+README.md
